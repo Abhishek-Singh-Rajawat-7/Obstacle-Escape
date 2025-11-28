@@ -58,13 +58,9 @@ Reach the end of the level **without dying from traps**!
 
 ---
 
-## 📸 Screenshots / Gameplay Preview
+## 📸  Gameplay Preview
 
-> 
-> 
-<img width="1909" height="1073" alt="Screenshot 2025-11-27 134912" src="https://github.com/user-attachments/assets/ab87c203-baed-460a-8da7-65d612001ea1" />
-<img width="1919" height="1079" alt="Screenshot 2025-11-27 135517" src="https://github.com/user-attachments/assets/45fdcc40-79e2-4479-9fd1-c3a2cb8fd4d3" />
-<img width="1919" height="1077" alt="Screenshot 2025-11-27 134944" src="https://github.com/user-attachments/assets/6abcf92a-8a31-474b-b937-96928ffa5f38" />
+https://github.com/user-attachments/assets/81a7c406-7348-4e2a-98c7-6c9f27f361cb
 
 ---
 
